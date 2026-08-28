@@ -1,0 +1,6 @@
+{
+  "name": "AI Marketing & SEO Helper",
+  "description": "AI-powered Internet Marketing, SEO, GEO/AEO research, trending niches, keyword generation, content creation, competitor tracking, and real-time analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
